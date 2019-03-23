@@ -2,11 +2,9 @@
 <br>
 <a name="top" href="https://github.com/carlaprv/plano-de-estudos"><img src="./img/brain-icon.png"></a>
 <br>
-Materiais para estudo - IA e vieses inconscientes
+Guia de estudo - Inteligência Artificial e vieses inconscientes
 <br>
 </h1>
-
-<h4 align="center">Repositorios com materiais de estudo</h4>
 
 <p align="center">
 <b><a href="#introdução">Introdução</a></b>
