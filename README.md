@@ -1,5 +1,3 @@
-# material-de-estudo-ia-bias
-
 <h1 align="center">
 <br>
 <a name="top" href="https://github.com/carlaprv/plano-de-estudos"><img src="./img/brain-icon.png"></a>
