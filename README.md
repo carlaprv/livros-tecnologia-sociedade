@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-<a name="top" href="https://github.com/carlaprv/plano-de-estudos"><img src="./.img/brain-icon.png"></a>
+<a name="top" href="https://github.com/carlaprv/plano-de-estudos"><img src="./img/brain-icon.png"></a>
 <br>
 Materiais para estudo - IA e vieses inconscientes
 <br>
