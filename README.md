@@ -2,7 +2,7 @@
 <br>
 <a name="top" href="https://github.com/carlaprv/plano-de-estudos"><img src="./img/brain-icon.png"></a>
 <br>
-Guia de estudo - Inteligência Artificial e vieses inconscientes
+Livros sobre tecnologia e sociedade
 <br>
 </h1>
 
@@ -18,7 +18,7 @@ Guia de estudo - Inteligência Artificial e vieses inconscientes
 
 ## Introdução
 
-Nesse repositório vou disponibilizar links para livros, apresentações, artigos e cursos gratuitos que me ajudarem na minha pesquisa sobre como o viés inconsciente tem afetado a Inteligência Artificial e quais seus impactos no futuro da humanidade. 
+Nesse repositório vou disponibilizar links para livros, apresentações, artigos e cursos gratuitos que me ajudarem na minha pesquisa sobre como o vieses tem afetado a construção de tecnologia, algoritmos e inteligência artificial e quais seus impactos na nossa sociedade e perpetuação de vieses discriminatórios. 
 
 Se possuir material interessante, por favor compartilhe com a comunidade. Estamos aqui para crescermos juntos.
 
